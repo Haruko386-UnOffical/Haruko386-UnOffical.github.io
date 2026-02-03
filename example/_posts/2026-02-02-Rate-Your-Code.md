@@ -1,15 +1,13 @@
 ---
 layout: post
 description: > 
-  Tell What's new on our project
+  An interesting little project that evaluates your project's code and file naming conventions, scoring it across various aspects.
 image: 
-  path: /assets/img/blog/pawel-czerwinski-848z7lbCjoo-unsplash.jpg
+  path: /assets/img/blog/Rate-Your-Code.png
 sitemap: false
 ---
 
-# What's news
-
-## "Rate-Your-Code"
+# "Rate-Your-Code"
 
 #### 📣 前言
 

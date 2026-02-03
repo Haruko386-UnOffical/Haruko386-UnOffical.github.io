@@ -21,7 +21,7 @@ redirect_from:
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/avatar/haruko386.png" alt="Haruko386 Avatar" width="100px" style="border-radius: 50%;"><br>
+      <img src="https://avatars.githubusercontent.com/u/140301008?v=4" alt="Haruko386 Avatar" width="100px" style="border-radius: 50%;"><br>
       <h3>Haruko386</h3>
       <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=level&theme=github&fontFamily=&preferLogin=true">
         <img alt="Haruko386's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Haruko386?cardType=level&theme=github&fontFamily=&preferLogin=true" width="100%" />
@@ -32,7 +32,7 @@ redirect_from:
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haruko386&theme=github" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="./assets/avatar/dimon.png" alt="dimon0000000 Avatar" width="100px" style="border-radius: 50%;"><br>
+      <img src="https://avatars.githubusercontent.com/u/85853517?v=4" alt="dimon0000000 Avatar" width="100px" style="border-radius: 50%;"><br>
       <h3>dimon0000000</h3>
       <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=level&theme=github&fontFamily=&preferLogin=true">
         <img alt="dimon0000000's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/dimon0000000?cardType=level&theme=github&fontFamily=&preferLogin=true" width="100%" />
