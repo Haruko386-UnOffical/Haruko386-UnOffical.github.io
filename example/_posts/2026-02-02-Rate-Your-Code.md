@@ -3,7 +3,7 @@ layout: post
 description: > 
   An interesting little project that evaluates your project's code and file naming conventions, scoring it across various aspects.
 image: 
-  path: /assets/img/blog/Rate-Your-Code.png
+  path: /assets/blog/Rate-Your-Code.png
 sitemap: false
 ---
 

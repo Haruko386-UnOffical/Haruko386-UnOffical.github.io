@@ -3,7 +3,7 @@ layout: post
 description: > 
   Are you still troubled by your project code being too perfect? Let me help you solve this problem. Just one command to give your colleagues headaches when reading your code.
 image: 
-  path: /assets/img/blog/Destory-Your-Code.png
+  path: /assets/blog/Destory-Your-Code.png
 sitemap: false
 ---
 
